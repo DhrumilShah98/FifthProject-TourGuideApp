@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--single_list_item_view.xml dimensions-->
+    <dimen name="location_image_height">100dp</dimen>
+    <dimen name="location_image_width">100dp</dimen>
+    <dimen name="padding_start_end">12dp</dimen>
+    <dimen name="audio_image_width_height">24dp</dimen>
+    <dimen name="audi_image_margin_end">6dp</dimen>
+</resources>
