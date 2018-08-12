@@ -25,6 +25,6 @@ Used ViewPager + Fragments as well as TabLayout to display the content. Also it 
 ## Amdavad App Images
 
 <img src = "AppImages/2.png" width="300px" height="550px" > <img src = "AppImages/3.png" width="300px" height="550px"><br>
-<img src = "AppImages/4.png" width="300px" height="550px" > <img src = "AppImages/5.png" width="300px" height="550px">
+<img src = "AppImages/4.png" width="300px" height="550px" > <img src = "AppImages/5.png" width="300px" height="550px" >
 
 Check out more Images in AppImages folder.
